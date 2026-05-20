@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28036487/README.md)
+[README (1).md](https://github.com/user-attachments/files/28036589/README.1.md)
 # Hola, soy Dietri Diaz 👋
 
 Estudiante de **Ingeniería de Sistemas** (7mo ciclo, UTP) con experiencia real desarrollando sistemas ERP empresariales a medida.
@@ -30,7 +30,7 @@ He trabajado en proyectos desde el prototipado hasta el despliegue en producció
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Pencil](https://img.shields.io/badge/Pencil-444444?style=for-the-badge&logo=pencil&logoColor=white)
 
 ---
 
@@ -63,13 +63,6 @@ He trabajado en proyectos desde el prototipado hasta el despliegue en producció
 > Proyecto emprendedor creado junto a 4 compañeros de la universidad.
 
 🔗 [dbltech.tech](https://dbltech.tech/) &nbsp;|&nbsp; 💻 [Repositorio](https://github.com/DBLTECH2026)
-
----
-
-## 📊 GitHub Stats
-
-![Dietri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dietri-Diaz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dietri-Diaz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
